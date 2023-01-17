@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Grad  🧑‍🎓  at UC Berkeley majoring in Software Engineering!<br>I have 4 years of professional work experience working as a Full-Stack Developer and Tech Lead.<br>I am a Blockchain Evangelist with development experience across multiple platforms and 4 years of hands-on experience. 
+I'm Grad Student at UC Berkeley majoring in Software Engineering!<br>I have 4 years of professional work experience working as a Full-Stack Developer and Tech Lead.<br>I am a Blockchain Evangelist with development experience across multiple platforms and 4 years of hands-on experience. 
 
 
 ## 🌐 Socials:
