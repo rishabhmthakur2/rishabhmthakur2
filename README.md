@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Software Developer at Epic Games. <br>
+Sr. Software Developer at NVIDIA. Previously Epic Games! <br>
 Currently based out of San Diego, CA! <br>
 
 Masters in Software Engineering from UC Berkeley (Class of 2023)
